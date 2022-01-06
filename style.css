@@ -6,7 +6,7 @@ body{
 }
 .head{
     font-family: 'Libre Baskerville', serif;
-    font-size: 28px;
+    font-size: 23px;
     margin-left: 100px;
     margin-top: 100px;
     border-left: 3px solid red;
@@ -140,4 +140,43 @@ body{
 #fonts-size{
     font-size: 16px;
     margin-bottom: 30px;
+}
+#optional-part{
+    text-align: justify;
+    margin-left: 100px;
+}
+#for-adjust{
+    margin-left: 240px;
+    margin-top: 130px;
+}
+#optional-part img{
+    margin-left: 90px;
+    height: 440px;
+    width: 160px;
+    margin-top: 90px;
+    box-shadow: 10px 10px 10px rgb(202, 144, 144);
+}
+#optional-part{
+    background-size: 0px;
+}
+#optional-backgroun{
+    background-image: url(images/shapes/shape-3.png);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: top;
+    height: 150px;
+    width: 150px;
+}
+#footer{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    margin-top: 350px;
+    padding-bottom: 30px;
+}
+#font-style-for-footer{
+    font-family: 'Dancing Script', cursive;
+    padding-top: 30px;
+
 }
